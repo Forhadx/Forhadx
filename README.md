@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on the MERN stack.
 - ✍️ I love to learn new technologies.
-- ⚡ Recently I'm seeking a job.
+- <s>⚡ Recently I'm seeking a job.</s>
 
 <h2> My Skill's</h2>
 
