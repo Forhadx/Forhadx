@@ -4,11 +4,14 @@
 
 <h2> I'm a Fullstack developer</h2>
 
-- 🔭 I’m currently working on the MERN stack.
-- ✍️ I love to learn new technologies.
-- <s>⚡ Recently I'm seeking a job.</s>
+- 🔭 I’m currently working on socket.io and webRTC.
+- ⚡ I have good knowledge of NodeJs and ReactJs.
+- ✍️ I love to make projects with new technologies.
+- 😀 Hire me, for your interesting project.
 
 <h2> My Skill's</h2>
+
+
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt='linkedin' height='40' >     <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/css3.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt='linkedin' height='40' >
 
