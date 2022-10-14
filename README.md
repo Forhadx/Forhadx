@@ -4,7 +4,7 @@
 
 <h2> I'm a Fullstack developer</h2>
 
-- 🔭 I’m currently working on socket.io and webRTC.
+- 🔭 I’m currently working as a backend developer.
 - ⚡ I have good knowledge of NodeJs and ReactJs.
 - ✍️ I love to make projects with new technologies.
 - 😀 Hire me, for your interesting project.
@@ -22,4 +22,4 @@
 <h2> Let's Contact</h2>
 
 [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shamsul-haque-forhad/)
-[<img src='https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png' alt='gitlab' height='40'>](https://gitlab.com/forhadx)
+[<img src='https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png' alt='gitlab' height='40'>](https://gitlab.com/shamsul.b2gsoft)
