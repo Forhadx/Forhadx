@@ -25,5 +25,4 @@
 [<img src='https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png' alt='gitlab' height='40'>](https://gitlab.com/shamsul.b2gsoft)
 
 
-<P align="center"> Total Profile Views Count
-<img src="https://komarev.com/ghpvc/?username=forhadx" style="width:10%;height:5%;"/>
+<img src="https://komarev.com/ghpvc/?username=forhadx" style="width:15%;height:8%;"/>
