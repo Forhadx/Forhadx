@@ -12,6 +12,10 @@
 <h2> My Skill's</h2>
 
 
+<ul>
+  <li><strong>Backend: </strong>Nodejs, Expressjs</li>
+</ul>
+
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt='linkedin' height='40' >     <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/css3.png" alt='linkedin' height='40' >     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt='linkedin' height='40' >
 
