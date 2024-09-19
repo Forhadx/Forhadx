@@ -13,7 +13,7 @@
 
 
 <ul>
-  <li><strong>Backend: </strong>Nodejs, Expressjs</li>
+  <li><strong>Backend: </strong>Nodejs, Expressjs, Nestjs</li>
   <li><strong>Frontend: </strong>Reactjs, Nextjs</li>
   <li><strong>Database: </strong>MongoDB, MySQL, PostgreSQL</li>
   <li><strong>Language: </strong>Javascript, Typescript, Python</li>
